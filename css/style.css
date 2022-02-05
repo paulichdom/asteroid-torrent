@@ -1,0 +1,13 @@
+#canvasPlayer {
+    position: absolute;
+    border: 1px solid #888;
+    background: none;
+    display: block;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#preloader {
+    display: none;
+}
